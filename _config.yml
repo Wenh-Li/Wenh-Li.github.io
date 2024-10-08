@@ -21,7 +21,7 @@ repository               : "Wenh-Li/Wenh-Li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "whl_bio"
+  avatar           : "whl_bio.png"
   name             : "Wenhao Li"
   pronouns         : # example: "she/her"  
   bio              : "CS Ph.D"
