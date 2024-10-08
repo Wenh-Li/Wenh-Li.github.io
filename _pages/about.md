@@ -34,11 +34,11 @@ Reviewer of **ACM TOSN**
 ## Publications
 - NDSS
 
-- Hu Pengfei, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[PDF](https://github.com/Wenh-Li/Wenh-Li.github.io/blob/master/files/mmEcho.pdf)]
+- Hu Pengfei, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
-- Hu Pengfei, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards unconstrained vocabulary eavesdropping with mmwave radar using gan." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. [[PDF](https://github.com/Wenh-Li/Wenh-Li.github.io/blob/master/files/paper-2022-12-05.pdf)]
+- Hu Pengfei, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
 
-- Chen Yiwei, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. [[PDF](https://github.com/Wenh-Li/Wenh-Li.github.io/blob/master/files/HCC-100241.pdf)]
+- Chen Yiwei, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)]
 
 
 <span class='anchor' id='-edu'></span>
