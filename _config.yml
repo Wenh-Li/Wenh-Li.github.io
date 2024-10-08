@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenhao Li"
+title                    : "Wenhao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wenhao Li"
 description              : &description "personal description"
