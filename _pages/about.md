@@ -13,6 +13,13 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.io/cv/).
 
+## Recent News
+- Our paper got accepted by **NDSS 2025**.
+  
+- _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by **IEEE S&P 2023**.
+  
+- _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by **IEEE TMC**.
+
 ## Academic Service
 Artifact Evaluation Committee Member of **ACM CCS 2024**
 
