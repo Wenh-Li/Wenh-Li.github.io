@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Wenhao Li (李文浩)"
 author_profile: true
 redirect_from: 
   - /about/
