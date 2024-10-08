@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these 
+I am currently working toward Ph.D from the School of Computer Science, Shandong University, China. My research interests include Security and Privacy for IoT Systems, Wireless Sensing, and Mobile Computing.
+
+I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.github.io/) from the School of Computer Science, Shandong University.
+
+You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.io/cv/).
