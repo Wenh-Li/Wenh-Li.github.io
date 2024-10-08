@@ -13,7 +13,6 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.io/cv/).
 
-
 <span class='anchor' id='-news'></span>
 ## Recent News
 - Our paper got accepted by **NDSS 2025**.
@@ -22,24 +21,21 @@ You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.i
   
 - Our paper _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by **IEEE TMC**.
 
-
 <span class='anchor' id='-service'></span>
 ## Academic Service
 Artifact Evaluation Committee Member of **ACM CCS 2024**
 
 Reviewer of **ACM TOSN**
 
-
 <span class='anchor' id='-pub'></span>
 ## Publications
 - NDSS
 
-- Hu Pengfei, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
+- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
-- Hu Pengfei, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
+- Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
 
-- Chen Yiwei, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)]
-
+- Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)]
 
 <span class='anchor' id='-edu'></span>
 ## Educations
