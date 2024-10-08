@@ -7,9 +7,9 @@
 main:
   - title: "Recent News"
     url: "/Wenh-Li.github.io/#-news"
-  - title: "Publications"
-    url: "/Wenh-Li.github.io/#-pub"
   - title: "Academic Service"
     url: "/Wenh-Li.github.io/#-service"
+  - title: "Publications"
+    url: "/Wenh-Li.github.io/#-pub"
   - title: "CV"
     url: /cv/
