@@ -6,10 +6,10 @@
 
 main:
   - title: "Recent News"
-    url: "/Wenh-Li.github.io/##-news"
+    url: "/Wenh-Li.github.io/#-news"
   - title: "Academic Service"
-    url: "/Wenh-Li.github.io/##-service"
+    url: "/Wenh-Li.github.io/#-service"
   - title: "Publications"
-    url: "/Wenh-Li.github.io/##-pub"
+    url: "/Wenh-Li.github.io/#-pub"
   - title: "Educations"
-    url: "/Wenh-Li.github.io/##-edu"
+    url: "/Wenh-Li.github.io/#-edu"
