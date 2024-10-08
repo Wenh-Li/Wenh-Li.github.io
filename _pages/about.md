@@ -15,8 +15,7 @@ You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.i
 
 
 <span class='anchor' id='-news'></span>
-
-# Recent News
+## Recent News
 - Our paper got accepted by **NDSS 2025**.
   
 - Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by **IEEE S&P 2023**.
@@ -25,16 +24,14 @@ You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.i
 
 
 <span class='anchor' id='-service'></span>
-
-# Academic Service
+## Academic Service
 Artifact Evaluation Committee Member of **ACM CCS 2024**
 
 Reviewer of **ACM TOSN**
 
 
 <span class='anchor' id='-pub'></span>
-
-# Publications
+## Publications
 - NDSS
 
 - Hu Pengfei, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[PDF](https://github.com/Wenh-Li/Wenh-Li.github.io/blob/master/files/mmEcho.pdf)]
@@ -45,5 +42,4 @@ Reviewer of **ACM TOSN**
 
 
 <span class='anchor' id='-edu'></span>
-
-# Educations
+## Educations
