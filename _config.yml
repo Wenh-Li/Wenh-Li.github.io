@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9771-2925"
   semantic         : # URL
-  pubmed           : "null"
+  pubmed           : #"null"
   researchgate     : # URL
 
   # Repositories and software development
