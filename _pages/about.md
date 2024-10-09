@@ -11,8 +11,6 @@ I am currently working toward a Ph.D. in Computer Science at Shandong University
 
 I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.github.io/) from School of Computer Science, Shandong University. I was advised by [Professor Riccardo Spolaor](https://riki8686.github.io/) from School of Computer Science, Shandong University.
 
-You can find my CV here: [Wenhao Li's Curriculum Vitae](https://wenh-li.github.io/cv/).
-
 <span class='anchor' id='-news'></span>
 ## Recent News
 - Our paper got accepted by **NDSS 2025**.
@@ -29,7 +27,7 @@ Reviewer of **ACM TOSN**
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- NDSS
+- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." Network and Distributed System Security (NDSS) Symposium 2025.
 
 - Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
@@ -39,3 +37,5 @@ Reviewer of **ACM TOSN**
 
 <span class='anchor' id='-edu'></span>
 ## Educations
+
+- Ph.D. student Major in Computer Science and Technology, 2022.09 - Present
