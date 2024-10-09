@@ -13,9 +13,9 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 <span class='anchor' id='-news'></span>
 ## Recent News
-- Our paper got **accepted** by **NDSS 2025**.
+- Our paper got accepted by **NDSS 2025**.
 
-- Our paper got **Major Revision** by **IEEE TMC**.
+- Our paper got Major Revision by **IEEE TMC**.
   
 - Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by **IEEE S&P 2023**.
   
