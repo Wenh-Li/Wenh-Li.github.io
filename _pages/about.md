@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently working toward a Ph.D. in Computer Science at Shandong University, China. My research interests focus on Security and Privacy for IoT Systems, Wireless Sensing, and Side-channels Analysis.
 
-I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.github.io/) from School of Computer Science, Shandong University. I was advised by [Professor Riccardo Spolaor](https://riki8686.github.io/) from School of Computer Science, Shandong University.
+I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.github.io/) from School of Computer Science, Shandong University. My master's advisor is [Professor Riccardo Spolaor](https://riki8686.github.io/) from School of Computer Science, Shandong University.
 
 <span class='anchor' id='-news'></span>
 ## Recent News
