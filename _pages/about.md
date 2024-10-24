@@ -44,7 +44,7 @@ Reviewer of **ACM TOSN**
 
 - Ph.D. student Major in Computer Science and Technology, 2022.09 - Present
   
- ** _Shandong University_**
+  **_Shandong University_**
   
 - M.E. student Major in Computer Science and Technology, 2020.09-2022.06
   
