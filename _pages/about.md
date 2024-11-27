@@ -33,15 +33,15 @@ Serve As Reviewer：
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." Network and Distributed System Security (NDSS) Symposium 2025. (**Accepted**)
+- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." Network and Distributed System Security (NDSS) Symposium 2025. 
 
 - **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." IEEE Transactions on Mobile Computing. (**In revision**)
 
-- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. (**Published**)[[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
+- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
-- Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. (**Published**)[[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
+- Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." IEEE Transactions on Mobile Computing 23, no. 1 (2022): 941-954. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
 
-- Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. (**Published**)[[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)] 
+- Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." High-Confidence Computing (2024): 100241. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)] 
 
 <span class='anchor' id='-edu'></span>
 ## Educations
