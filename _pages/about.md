@@ -23,9 +23,13 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 <span class='anchor' id='-service'></span>
 ## Academic Service
-Artifact Evaluation Committee Member of **ACM CCS 2024**
+Artifact Evaluation Committee Member：
 
-Reviewer of **ACM TOSN**
+**ACM CCS 2024, USENIX Security 2025**
+
+Reviewer：
+
+**ACM TOSN**
 
 <span class='anchor' id='-pub'></span>
 ## Publications
