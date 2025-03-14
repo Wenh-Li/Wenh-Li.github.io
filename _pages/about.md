@@ -13,10 +13,10 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 <span class='anchor' id='-news'></span>
 ## Recent News
-- Our paper got accepted by **NDSS 2025**.
-
-- Our paper got Major Revision by **IEEE TMC**.
+- Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by **IEEE TMC**.
   
+- Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by **NDSS 2025**.
+
 - Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by **IEEE S&P 2023**.
   
 - Our paper _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by **IEEE TMC**.
@@ -33,9 +33,9 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." Network and Distributed System Security (NDSS) Symposium 2025. 
-
-- **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." IEEE Transactions on Mobile Computing. (**In revision**)
+- **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." IEEE Transactions on Mobile Computing. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)]
+  
+- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." Network and Distributed System Security (NDSS) Symposium 2025. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)]
 
 - Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." In 2023 IEEE Symposium on Security and Privacy (SP), pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
