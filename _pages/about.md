@@ -29,7 +29,7 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 
 ### Serve As Reviewer：
 
-**_ACM TOSN_**
+**_IEEE TDSC, ACM TOSN_**
 
 <span class='anchor' id='-pub'></span>
 ## Publications
