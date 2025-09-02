@@ -46,7 +46,7 @@ I am very fortunate to be advised by [Professor Pengfei Hu](https://perfecthu.gi
 <span class='anchor' id='-edu'></span>
 ## Educations
 
-- Ph.D. student Major in Computer Science and Technology, 2022.09 - Present
+- Ph.D. student Major in Computer Science and Technology, 2022.09 - 2025.06
   
   **_Shandong University_**
   
