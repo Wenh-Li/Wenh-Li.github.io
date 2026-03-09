@@ -14,13 +14,13 @@ My Ph.D. supervisor is [Professor Pengfei Hu](https://perfecthu.github.io/) from
 
 <span class='anchor' id='-news'></span>
 ## Recent News
-- Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by **IEEE TMC**.
+- Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by _**IEEE TMC**_.
   
-- Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by **NDSS 2025**.
+- Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by _**NDSS 2025**_.
 
-- Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by **IEEE S&P 2023**.
+- Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by _**IEEE S&P 2023**_.
   
-- Our paper _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by **IEEE TMC**.
+- Our paper _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by _**IEEE TMC**_.
 
 <span class='anchor' id='-service'></span>
 ## Academic Service
