@@ -14,6 +14,8 @@ My Ph.D. supervisor is [Professor Pengfei Hu](https://perfecthu.github.io/) from
 
 <span class='anchor' id='-news'></span>
 ## Recent News
+- Our paper _"PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers"_ got accepted by _**IEEE S&P 2026**_.
+
 - Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by _**IEEE TMC**_.
   
 - Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by _**NDSS 2025**_.
