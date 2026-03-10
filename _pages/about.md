@@ -38,9 +38,9 @@ _IEEE TDSC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
 ## Publications
 - **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." _IEEE Transactions on Mobile Computing (**TMC**)_. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)]
   
-- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." _Network and Distributed System Security (**NDSS**) Symposium 2025_. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)]
+- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." _Network and Distributed System Security (**NDSS'25**) Symposium 2025_. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)]
 
-- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." _In 2023 IEEE Symposium on Security and Privacy (**S&P**)_, pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
+- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." _In 2023 IEEE Symposium on Security and Privacy (**S&P'23**)_, pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
 
 - Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." _IEEE Transactions on Mobile Computing (**TMC**)_. 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
 
