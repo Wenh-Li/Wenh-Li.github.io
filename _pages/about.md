@@ -49,15 +49,15 @@ _IEEE TDSC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
 <span class='anchor' id='-edu'></span>
 ## Educations
 
-- Ph.D. student Major in Computer Science and Technology, 2022.09 - 2025.06
+- Ph.D. student Major in Computer Science and Technology,     2022.09 - 2025.06
   
   **_Shandong University_**
   
-- M.E. student Major in Computer Science and Technology, 2020.09-2022.06
+- M.E. student Major in Computer Science and Technology,        2020.09-2022.06
   
   **_Shandong University_**
   
-- B.E. Major in Computer Science and Technology, 2016.09-2020.06
+- B.E. Major in Computer Science and Technology,                2016.09-2020.06
   
   **_Beijing Information Science and Technology University_**
   
