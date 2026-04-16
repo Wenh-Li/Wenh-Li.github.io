@@ -26,13 +26,13 @@ My Ph.D. supervisor is [Professor Pengfei Hu](https://perfecthu.github.io/) from
 
 <span class='anchor' id='-service'></span>
 ## Academic Service
-### Serve As Artifact Evaluation Committee Member：
-
-_NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
-
 ### Serve As Reviewer：
 
 _IEEE TDSC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
+
+### Serve As Artifact Evaluation Committee Member：
+
+_NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
