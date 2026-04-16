@@ -36,6 +36,8 @@ _IEEE TDSC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
+- **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026
+
 - **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." _IEEE Transactions on Mobile Computing (**TMC**)_. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)]
   
 - **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." _Network and Distributed System Security (**NDSS'25**) Symposium 2025_. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)]
