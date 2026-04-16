@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Department of Computer Science at City University of Hong Kong. I received my Ph.D. in Computer Science from Shandong University. My research interests focus on Security and Privacy for IoT Systems, Wireless Sensing, and Side-channels Analysis.
-
-I am currently advised by [Professor Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) at City University of Hong Kong. 
-My Ph.D. supervisor is [Professor Pengfei Hu](https://perfecthu.github.io/) from School of Computer Science, Shandong University. My master supervisor is [Professor Riccardo Spolaor](https://riki8686.github.io/) from School of Computer Science, Shandong University.
+I am currently a Postdoctoral Fellow in the Department of Computer Science at City University of Hong Kong. I received my Ph.D. in Computer Science from Shandong University. My research interests include the security and privacy of IoT systems, wireless sensing, and side-channel analysis. I am currently working with [Professor Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) at City University of Hong Kong. During my Ph.D. studies, I was advised by [Professor Pengfei Hu](https://perfecthu.github.io/) at the School of Computer Science and Technology, Shandong University. During my master's studies, I was supervised by [Professor Riccardo Spolaor](https://riki8686.github.io/).
 
 <span class='anchor' id='-news'></span>
 ## Recent News
