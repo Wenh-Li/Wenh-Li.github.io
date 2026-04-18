@@ -33,15 +33,15 @@ _NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026.
+- **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026. (CCF A)
 
-- **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." _IEEE Transactions on Mobile Computing (**TMC**)_. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)]
+- **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." _IEEE Transactions on Mobile Computing (**TMC**)_. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)] (CCF A)
   
-- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." _Network and Distributed System Security (**NDSS'25**) Symposium 2025_. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)]
+- **Wenhao Li**, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, and Pengfei Hu. "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel." _Network and Distributed System Security (**NDSS'25**) Symposium 2025_. [[Paper](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)] (CCF A)
 
-- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." _In 2023 IEEE Symposium on Security and Privacy (**S&P'23**)_, pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)]
+- Pengfei Hu, **Wenhao Li**, Riccardo Spolaor, and Xiuzhen Cheng. "mmEcho: A mmWave-based Acoustic Eavesdropping Method." _In 2023 IEEE Symposium on Security and Privacy (**S&P'23**)_, pp. 1840-1856. IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10179484)] (CCF A)
 
-- Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." _IEEE Transactions on Mobile Computing (**TMC**)_. 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)]
+- Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." _IEEE Transactions on Mobile Computing (**TMC**)_. 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9970305)] (CCF A)
 
 - Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." _High-Confidence Computing (**HCC**)_. 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)] 
 
