@@ -13,6 +13,8 @@ I am currently a Postdoctoral Fellow in the Department of Computer Science at Ci
 ## Recent News
 - Our paper _"PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels"_ got accepted by _**IEEE S&P 2026**_.
 
+- Our Paper _"RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication"_ got accepted by _**IEEE TDSC**_.
+
 - Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by _**IEEE TMC**_.
   
 - Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by _**NDSS 2025**_.
@@ -34,6 +36,8 @@ _NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 <span class='anchor' id='-pub'></span>
 ## Publications
 - **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026. **(CCF A)**
+
+- **Wenhao Li**, Chenxu Li, Guoming Zhang, Zhijian Huang, Gang Qu, Xiuzhen Cheng, Jun Luo, and Pengfei Hu. “RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication”. _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. **(CCF A)**
 
 - **Wenhao Li**, Riccardo Spolaor, Chuanwen Luo, Yuchao Sun, Huashan Chen, Guoming Zhang, Yanni Yang, Xiuzhen Cheng, and Pengfei Hu. "Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar." _IEEE Transactions on Mobile Computing (**TMC**)_. 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3551317)] **(CCF A)**
   
