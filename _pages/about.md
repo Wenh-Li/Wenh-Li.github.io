@@ -20,8 +20,6 @@ I am currently a Postdoctoral Fellow in the Department of Computer Science at Ci
 - Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by _**NDSS 2025**_.
 
 - Our paper _"mmEcho: A mmWave-based Acoustic Eavesdropping Method"_ got accepted by _**IEEE S&P 2023**_.
-  
-- Our paper _"Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN"_ got accepted by _**IEEE TMC**_.
 
 <span class='anchor' id='-service'></span>
 ## Academic Service
