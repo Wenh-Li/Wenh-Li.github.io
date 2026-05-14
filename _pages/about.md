@@ -47,6 +47,4 @@ _NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 - Pengfei Hu, **Wenhao Li**, Yifan Ma, Panneer Selvam Santhalingam, Parth Pathak, Hong Li, Huanle Zhang, Guoming Zhang, Xiuzhen Cheng, and Prasant Mohapatra. "Towards Unconstrained Vocabulary Eavesdropping With mmWave Radar Using GAN." _IEEE Transactions on Mobile Computing (**TMC**)_. 2022. [[Paper](https://ieeexplore.ieee.org/document/9970305))] **(CCF A)**
 
-- Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." _High-Confidence Computing (**HCC**)_. 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)] 
-
   
