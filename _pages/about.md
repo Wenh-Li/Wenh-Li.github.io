@@ -49,24 +49,4 @@ _NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 - Yiwei Chen, **Wenhao Li**, XiuZhen Cheng, and Pengfei Hu. "A survey of acoustic eavesdropping attacks: Principle, methods, and progress." _High-Confidence Computing (**HCC**)_. 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667295224000448)] 
 
-<span class='anchor' id='-edu'></span>
-## Educations
-
-- Ph.D. student Major in Computer Science and Technology
-  
-  **_Shandong University_**
-
-  2022.09 - 2025.06
-  
-- M.E. student Major in Computer Science and Technology
-  
-  **_Shandong University_**
-
-  2020.09-2022.06
-  
-- B.E. Major in Computer Science and Technology
-  
-  **_Beijing Information Science and Technology University_**
-
-  2016.09-2020.06
   
