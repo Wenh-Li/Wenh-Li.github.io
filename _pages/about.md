@@ -25,7 +25,7 @@ I am currently a Postdoctoral Fellow in the Department of Computer Science at Ci
 ## Academic Service
 ### Serve As Reviewer：
 
-_IEEE TDSC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
+_IEEE TDSC, IEEE TWC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
 
 ### Serve as Program Committee Member:
 _Ubicomp/ISWC 2026 Demo_
