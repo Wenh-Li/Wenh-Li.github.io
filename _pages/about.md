@@ -34,7 +34,7 @@ _NDSS 2027 & 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026. **_(CCF A)_**
+- **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026. [[Paper](https://ieeexplore.ieee.org/document/11573525)] **_(CCF A)_**
 
 - **Wenhao Li**, Chenxu Li, Guoming Zhang, Zhijian Huang, Gang Qu, Xiuzhen Cheng, Jun Luo, and Pengfei Hu. “RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication”. _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. [[Paper](https://ieeexplore.ieee.org/document/11503687)] **_(CCF A)_**
 
