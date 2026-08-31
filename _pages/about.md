@@ -26,7 +26,7 @@ I am currently a Postdoctoral Fellow in the Department of Industrial and Systems
 ## Academic Service
 ### Serve As Reviewer：
 
-_IEEE TDSC, IEEE TWC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
+_IEEE TDSC, IEEE TWC, ACM TOSN, IEEE IoT-J, High-Confidence Computing, 电子学报_
 
 ### Serve As Artifact Evaluation Committee Member：
 
