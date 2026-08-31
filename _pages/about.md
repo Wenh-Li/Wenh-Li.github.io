@@ -28,9 +28,6 @@ I am currently a Postdoctoral Fellow in the Department of Industrial and Systems
 
 _IEEE TDSC, IEEE TWC, ACM TOSN, IEEE IoT-J, High-Confidence Computing_
 
-### Serve as Program Committee Member:
-_Ubicomp/ISWC 2026 Demo_
-
 ### Serve As Artifact Evaluation Committee Member：
 
 _NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
