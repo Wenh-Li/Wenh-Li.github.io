@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Computer Science at City University of Hong Kong. I received my Ph.D. in Computer Science from Shandong University. My research interests include the security and privacy of IoT systems, wireless sensing, and side-channel analysis. I am currently working with [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) at City University of Hong Kong. I received my Ph.D. degree from the School of Computer Science and Technology, Shandong University, in 2025, under the supervision of [Prof. Pengfei Hu](https://perfecthu.github.io/) and [Prof. Xiuzhen Cheng](https://www.cs.sdu.edu.cn/info/1070/2796.htm). 
+I am currently a Postdoctoral Fellow in the Department of Industrial and Systems Engineering at The Hong Kong Polytechnic University, where I work with [Prof. Zhe Peng](https://peng-zhe.github.io/). Before joining PolyU, I was a Postdoctoral Fellow in the Department of Computer Science at City University of Hong Kong, working with [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I received my Ph.D. in Computer Science from Shandong University in 2025 under the supervision of [Prof. Pengfei Hu](https://perfecthu.github.io/) and [Prof. Xiuzhen Cheng](https://www.cs.sdu.edu.cn/info/1070/2796.htm). My research interests include IoT security and privacy, wireless sensing, and side-channel analysis.
+
 
 <span class='anchor' id='-news'></span>
 ## Recent News
