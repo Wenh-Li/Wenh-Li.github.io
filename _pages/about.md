@@ -30,7 +30,7 @@ _IEEE TDSC, IEEE TWC, ACM TOSN, IEEE IoT-J, High-Confidence Computing, 电子学
 
 ### Serve As Artifact Evaluation Committee Member：
 
-_NDSS 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
+_NDSS 2026 & 2027, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
