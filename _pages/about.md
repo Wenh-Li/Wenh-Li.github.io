@@ -12,6 +12,8 @@ I am currently a Postdoctoral Fellow in the Department of Industrial and Systems
 
 <span class='anchor' id='-news'></span>
 ## Recent News
+- Received ACM SIGSAC China Doctoral Dissertation Award (_**ACM SIGSAC China 优博奖**_)
+
 - Our paper _"PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels"_ got accepted by _**IEEE S&P 2026**_.
 
 - Our Paper _"RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication"_ got accepted by _**IEEE TDSC**_.
