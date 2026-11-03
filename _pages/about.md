@@ -17,10 +17,6 @@ I am currently a Postdoctoral Fellow in the Department of Industrial and Systems
 - Received _ACM SIGSAC China Doctoral Dissertation Award_ (_**ACM SIGSAC China 优博奖**_).
 
 - Our paper _"PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels"_ got accepted by _**IEEE S&P 2026**_.
-
-- Our Paper _"RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication"_ got accepted by _**IEEE TDSC**_.
-
-- Our paper _"Acoustic Eavesdropping from Sound-Induced Vibrations with Multi-Antenna mmWave Radar"_ got accepted by _**IEEE TMC**_.
   
 - Our paper _"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel"_ got accepted by _**NDSS 2025**_.
 
@@ -38,6 +34,10 @@ _NDSS 2027 & 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
+- **Wenhao Li**, Jiahao Wang, Tongyao Liu, Weitao Xu, Xianglong Zhang. "Generative Reconstruction of Facial Biometrics from Electromagnetic Side Channels Using Diffusion Models." _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. **_(CCF A)_**
+
+- **Wenhao Li**, Mingda Han, Chaoqun Li, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, Cong Wang, Pengfei Hu. "Toward Iris Eavesdropping via Electromagnetic Side Channels in Near-Infrared Sensing Systems." _IEEE Transactions on Mobile Computing (**TMC**)_. 2026. [[Paper](https://doi.org/10.1109/TMC.2026.3737257)] **_(CCF A)_**
+
 - **Wenhao Li**, Jiarong Yang, Mingda Han, Xiuzhen Cheng, Pengfei Hu, Cong Wang. "PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels." _In 2026 IEEE Symposium on Security and Privacy (**S&P'26**)_, 2026. [[Paper](https://ieeexplore.ieee.org/document/11573525)] **_(CCF A)_**
 
 - **Wenhao Li**, Chenxu Li, Guoming Zhang, Zhijian Huang, Gang Qu, Xiuzhen Cheng, Jun Luo, and Pengfei Hu. “RadioShock: Over-the-Air Adversarial Attacks on Wireless Communication”. _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. [[Paper](https://ieeexplore.ieee.org/document/11503687)] **_(CCF A)_**
