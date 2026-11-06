@@ -14,7 +14,7 @@ I am currently a Postdoctoral Fellow in the Department of Industrial and Systems
 ## Recent News
 - Glad to receive _2026 UK National Edge AI Hub **Future Star Award**_.
 
-- Glad to receive _ACM SIGSAC China Doctoral Dissertation Award_ (_**ACM SIGSAC China 优博奖**_).
+- Glad to receive _2026 **ACM SIGSAC China 优博奖**_.
 
 - Our paper _"PrintSpy: Pixel-Level Eavesdropping on Commodity Laser Printers via Electromagnetic Side Channels"_ got accepted by _**IEEE S&P 2026**_.
   
