@@ -36,7 +36,7 @@ _NDSS 2027 & 2026, USENIX Security 2025, Mobicom 2025, ACM CCS 2024_
 
 <span class='anchor' id='-pub'></span>
 ## Publications
-- **Wenhao Li**, Jiahao Wang, Tongyao Liu, Weitao Xu, Xianglong Zhang. "Generative Reconstruction of Facial Biometrics from Electromagnetic Side Channels Using Diffusion Models." _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. **_(CCF A)_**
+- **Wenhao Li**, Jiahao Wang, Tongyao Liu, Weitao Xu, Xianglong Zhang. "Generative Reconstruction of Facial Biometrics from Electromagnetic Side Channels Using Diffusion Models." _IEEE Transactions on Dependable and Secure Computing (**IEEE TDSC**)_. 2026. [[Paper](https://doi.ieeecomputersociety.org/10.1109/TDSC.2026.3750410)] **_(CCF A)_**
 
 - **Wenhao Li**, Mingda Han, Chaoqun Li, Jiahao Wang, Guoming Zhang, Yanni Yang, Riccardo Spolaor, Xiuzhen Cheng, Cong Wang, Pengfei Hu. "Toward Iris Eavesdropping via Electromagnetic Side Channels in Near-Infrared Sensing Systems." _IEEE Transactions on Mobile Computing (**TMC**)_. 2026. [[Paper](https://doi.org/10.1109/TMC.2026.3737257)] **_(CCF A)_**
 
